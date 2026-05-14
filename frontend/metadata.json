@@ -1,0 +1,6 @@
+{
+  "name": "Drone Security Analyst Agent",
+  "description": "Production-grade real-time drone security operations dashboard with AI-powered threat analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

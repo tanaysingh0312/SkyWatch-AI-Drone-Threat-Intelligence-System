@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv
+venv/
+ENV/
+.env
+
+# Database & Logs
+chroma_db/
+events.jsonl
+alerts.jsonl
+*.log
+
+# Node / React
+node_modules/
+dist/
+.eslintcache
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Scratch / Temp
+scratch/
+test_chroma_*/
+backend/data/video/demo.mp4
