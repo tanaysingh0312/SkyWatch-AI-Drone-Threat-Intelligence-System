@@ -32,8 +32,8 @@ Sentinel AI is a production-grade prototype of an autonomous drone security anal
 ## 🚀 Quick Start
 
 **1. Dashboard — Live Feed with LLaVA-7B Real-Time Frame Analysis**
- 
-<img width="1920" height="1020" alt="Screenshot 2026-05-14 142840" src="https://github.com/user-attachments/assets/b5ae99d8-e729-4537-b487-b2c514f60f2e" />
+
+ <img width="1920" height="922" alt="Screenshot 2026-05-14 140038" src="https://github.com/user-attachments/assets/f0719e37-2987-49df-912d-d7d5bce9ed03" />
 
 **2. Event History — Security Event Log with Threat Classification**
 
