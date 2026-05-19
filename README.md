@@ -39,6 +39,7 @@ SkyWatch AI is a production-grade prototype of an autonomous drone security anal
 **2. Event History — Security Event Log with Threat Classification**
 
 <img width="1919" height="922" alt="Screenshot 2026-05-14 140155" src="https://github.com/user-attachments/assets/6ca7ef66-6c90-4282-96c7-19d77ca9de2c" />
+
 **3. Analytics — Threat Timeline, Alert Distribution & Session Metrics**
 
 <img width="1919" height="915" alt="Screenshot 2026-05-14 140230" src="https://github.com/user-attachments/assets/010c0ef4-1561-4689-8619-b51f8805d341" />
