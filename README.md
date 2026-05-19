@@ -113,7 +113,7 @@ ollama pull qwen3:8b
 
 ```bash
 # Clone the repo
-git clone https://github.com/tanaysingh0312/sentinel-ai-drone-security.git
+git clone https://github.com/tanaysingh0312/SkyWatch-AI-Drone-Threat-Intelligence-System.git
 cd sentinel-ai-drone-security
 
 # Copy environment config
