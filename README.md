@@ -1,4 +1,5 @@
-# 🚁 Sentinel AI — Drone Security Analyst Agent
+# SkyWatch-AI — Real-Time Drone Threat Intelligence System
+
 
 <div align="center">
 
@@ -17,9 +18,9 @@
 
 ---
 
-## 🔍 What is Sentinel AI?
+## 🔍 What is SkyWatch AI?
 
-Sentinel AI is a production-grade prototype of an autonomous drone security analyst. It replaces passive CCTV systems with an active AI pipeline that:
+SkyWatch AI is a production-grade prototype of an autonomous drone security analyst. It replaces passive CCTV systems with an active AI pipeline that:
 
 - 👁️ **Sees** — processes drone video frames through LLaVA-7B (Vision Language Model) to generate natural language descriptions
 - 🧠 **Reasons** — a LangChain ReAct agent analyses patterns, cross-references history, and determines threat level
